@@ -38,7 +38,7 @@ Attributes
 			play-1.2.7.zip's url is: http://downloads.typesafe.com/play/1.2.7/play-1.2.7.zip<br>
 			repo_path's value is: play/1.2.7/
 	</td>
-    <td><tt>1.2.7</tt></td>
+    <td><tt>play/1.2.7/</tt></td>
   </tr>
 </table>
 
